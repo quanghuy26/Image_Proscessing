@@ -12,7 +12,7 @@ Using Matlab.
 ### Matlab code.
 ### Dataset.
 ### File powerpoint.
-### Report (build by Latex).
+### Report (built by Latex).
 ### Result:
 * 
      ![Screenshot](Ketqua.png)
