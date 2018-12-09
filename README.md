@@ -6,5 +6,5 @@ Project này phục vụ cho đề tài NHẬN DIỆN PHƯƠNG TIỆN GIAO THÔN
 - Matlab code.
 - Dataset.
 - File powerpoint.
-- Bài báo khoa học.
+- Bài báo (build bằng Latex).
 - Kết quả
