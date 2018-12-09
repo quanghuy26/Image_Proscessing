@@ -1,12 +1,12 @@
 # Image_Proscessing
-Image Proscessing using HOG->SVM-Neural_network.
-Project này phục vụ cho đề tài NHẬN DIỆN PHƯƠNG TIỆN GIAO THÔNG TRÊN VIDEO GIAO THÔNG VIỆT NAM.
+Image Processing using featuring extraction method HOG, classify method SVM combined with Neural_network.
+This project is used for the topic: VEHICLES DETECTING ON TRAFFIC VIDEO IN VIET NAM
 
-## Bao gồm:
+## This project includes:
 - Matlab code.
 - Dataset.
 - File powerpoint.
-- Bài báo (build bằng Latex).
-- Kết quả
+- Report (build by Latex).
+- Result:
 
      ![Screenshot](Ketqua.png)
