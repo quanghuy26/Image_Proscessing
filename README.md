@@ -10,4 +10,4 @@ Project này phục vụ cho đề tài NHẬN DIỆN PHƯƠNG TIỆN GIAO THÔN
 - Bài báo (build bằng Latex).
 - Kết quả
 
-![Screenshot](Ketqua.png)
+     ![Screenshot](Ketqua.png)
