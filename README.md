@@ -1,6 +1,5 @@
 # Image_Proscessing
-Image Proscessing using HOG->SVM-NN
-
+Image Proscessing using HOG->SVM-Neural_network.
 Project này phục vụ cho đề tài NHẬN DIỆN PHƯƠNG TIỆN GIAO THÔNG TRÊN VIDEO GIAO THÔNG VIỆT NAM.
 
 ## Bao gồm:
