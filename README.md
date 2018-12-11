@@ -1,5 +1,5 @@
 # Image Processing
-**Author: Le Quang Huy - 1511234 - Ho Chi Minh University Of Technology.**
+**Author: Le Quang Huy - 1511234.**
 
 Image Processing using featuring extraction method HOG, classify method SVM combined with Neural_network.
 
