@@ -1,7 +1,7 @@
 # Image Processing
 **Author: Le Quang Huy - 1511234.**
 
-Image Processing using featuring extraction method HOG, classify method SVM combined with Neural_network.
+Image Processing using featuring extraction method: HOG, classify method: SVM combined with Neural_network.
 
 This project is used for the topic: VEHICLES DETECTING ON TRAFFIC VIDEO IN VIET NAM.
 
